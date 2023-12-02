@@ -8,3 +8,5 @@
 
 попробую что то добавить...
 >>>>>>> origin/first
+> 
+> Conflict from local pc
